@@ -1,0 +1,17 @@
+# Unreal Engine ignore list
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.user
+*.userprefs
+*.sdf
+*.ipch
+
+# Optional: exclude content for lighter repo
+Content/
